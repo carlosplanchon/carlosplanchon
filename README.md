@@ -8,7 +8,7 @@ A few years later, in 2008, I wrote my first lines of code...
 
 Today, I build as my job - and still as a hobby - blending innovative tools and techniques with relentless experimentation.
 
-🚣🚣 And I also row and fly 😂 🛩️🛩️
+🚣🚣 I also row and fly 😂 🛩️🛩️
 
 <!--
 **carlosplanchon/carlosplanchon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
