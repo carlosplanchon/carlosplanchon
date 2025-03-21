@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-I’ll never forget the moment computers first gripped my imagination. It was 2005, and I was seven years old, sitting at my aunt’s computer, clumsily experimenting with PowerPoint. Suddenly, the program froze. Intrigued but unsure what to do, I called over my cousin Victoria, who declared with authority that a “virus” had infected the machine. My mind reeled: Could computers get “sick” like people?
+I'll never forget the moment computers first gripped my imagination. It was 2005, and I was seven years old, sitting at my aunt's computer, clumsily experimenting with PowerPoint. Suddenly, the program froze. Intrigued but unsure what to do, I called over my cousin Victoria, who declared with authority that a virus had infected the machine. My mind reeled: Could computers get sick like people?
 
-She explained, in the dramatic way only a teenager could, that these “viruses” were tools of "shadowy hackers" digital criminals who could even rob banks!. To my young self, this was earth-shattering. How could lines of code do that? How could a machine, this box of buttons and beeps, hold such power or vulnerability? That day sparked a lifelong obsession.
+She explained, in the dramatic way only a teenager could, that these viruses were tools of "shadowy hackers" digital criminals who could even rob banks!. To my young self, this was earth-shattering. How could lines of code do that? How could a machine, this box of buttons and beeps, hold such power or vulnerability? That day sparked a lifelong obsession.
 
 A few years later, in 2008, I wrote my first lines of code...
 
-Today, I build as my job - and still as a hobby - blending innovative tools and techniques with relentless experimentation.
+Today, I build as my job (and still as a hobby) blending innovative tools and techniques with relentless experimentation.
 
 🚣🚣 I also row and fly 😂 🛩️🛩️
 
