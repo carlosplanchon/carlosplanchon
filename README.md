@@ -24,6 +24,10 @@ My reproducible Arch Linux workstation and terminal environment are defined in [
 
 I contribute to [**FastAPI Boilerplate**](https://github.com/benavlabs/FastAPI-boilerplate), a batteries-included foundation for production FastAPI applications, alongside [Igor Benav](https://github.com/igorbenav), whom I had the pleasure of meeting in Rio de Janeiro.
 
+## Market microstructure
+
+[**measurevolume**](https://github.com/carlosplanchon/measurevolume) grew out of a cross-exchange arbitrage system I worked on in early 2020, using order-book snapshots to estimate market-taker pressure from visible depth depletion. The analysis accounts for differences in published book depth through comparable observation windows, price bands, confidence tiers, and equal-window controls.
+
 ## Browser agents
 
 I contributed lifecycle hooks to [**Browser Use**](https://github.com/browser-use/browser-use), adding `on_step_start` and `on_step_end` extension points around each agent step. These hooks let developers instrument, observe, and customize agent execution without modifying the core execution loop, enabling use cases such as tracing, policy enforcement, dynamic control, and integration with external systems. The hooks are now part of Browser Use's public API, and I also wrote their [official documentation](https://docs.browser-use.com/open-source/customize/hooks).
