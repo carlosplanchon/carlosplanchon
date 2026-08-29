@@ -48,7 +48,7 @@ The [**SpiderCreator**](https://github.com/carlosplanchon/spidercreator) line st
 
 [**xmlstreamer**](https://github.com/carlosplanchon/xmlstreamer) is a streaming parser I built for huge and unreliable XML feeds. It keeps memory bounded, isolates localized corruption instead of losing the whole feed, and makes partial failures explicit rather than silently repairing damaged input into data that was never there.
 
-Other projects include [worldclock-tty](https://github.com/carlosplanchon/worldclock-tty), [plotilleresample](https://github.com/carlosplanchon/plotilleresample), [tokenizesentences](https://github.com/carlosplanchon/tokenizesentences), [ifpeek](https://github.com/carlosplanchon/ifpeek), [deblotch](https://github.com/carlosplanchon/deblotch), and [checkcorruptedimages](https://github.com/carlosplanchon/checkcorruptedimages).
+Other projects include [worldclock-tty](https://github.com/carlosplanchon/worldclock-tty), [plotilleresample](https://github.com/carlosplanchon/plotilleresample), [tokenizesentences](https://github.com/carlosplanchon/tokenizesentences), [ifpeek](https://github.com/carlosplanchon/ifpeek), [wifireconnect](https://github.com/carlosplanchon/wifireconnect), [deblotch](https://github.com/carlosplanchon/deblotch), and [checkcorruptedimages](https://github.com/carlosplanchon/checkcorruptedimages).
 
 ## Open source community
 
