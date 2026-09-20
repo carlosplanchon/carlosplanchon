@@ -42,13 +42,17 @@ My work in website preservation began in 2018, with experiments in copying, pres
 
 The [**SpiderCreator**](https://github.com/carlosplanchon/spidercreator) line started in 2019 from the code of [iww](https://github.com/MohamedHmini/iww), created by [Mohamed Hmini](https://github.com/MohamedHmini), and developed from that technical starting point over the following years.
 
-## Tools
+## Networking and radio mapping
+
+[**Enodia**](https://github.com/carlosplanchon/enodia) explores offline, GNSS-independent localisation using Wi-Fi maps built from walks. Alongside it, [ifpeek](https://github.com/carlosplanchon/ifpeek) provides network inspection for Linux, while [wifireconnect](https://github.com/carlosplanchon/wifireconnect) diagnoses connectivity failures and recovers Wi-Fi connections.
+
+## Other tools
 
 [**outfancy**](https://github.com/carlosplanchon/outfancy) was the first library I built, in 2014, when I was sixteen.
 
 [**xmlstreamer**](https://github.com/carlosplanchon/xmlstreamer) is a streaming parser I built for huge and unreliable XML feeds. It keeps memory bounded, isolates localized corruption instead of losing the whole feed, and makes partial failures explicit rather than silently repairing damaged input into data that was never there.
 
-Other projects include [worldclock-tty](https://github.com/carlosplanchon/worldclock-tty), [plotilleresample](https://github.com/carlosplanchon/plotilleresample), [tokenizesentences](https://github.com/carlosplanchon/tokenizesentences), [ifpeek](https://github.com/carlosplanchon/ifpeek), [wifireconnect](https://github.com/carlosplanchon/wifireconnect), [deblotch](https://github.com/carlosplanchon/deblotch), and [checkcorruptedimages](https://github.com/carlosplanchon/checkcorruptedimages).
+Other projects include [worldclock-tty](https://github.com/carlosplanchon/worldclock-tty), [plotilleresample](https://github.com/carlosplanchon/plotilleresample), [tokenizesentences](https://github.com/carlosplanchon/tokenizesentences), [deblotch](https://github.com/carlosplanchon/deblotch), and [checkcorruptedimages](https://github.com/carlosplanchon/checkcorruptedimages).
 
 ## Open source community
 
