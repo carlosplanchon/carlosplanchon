@@ -54,6 +54,12 @@ The [**SpiderCreator**](https://github.com/carlosplanchon/spidercreator) line st
 
 Other projects include [worldclock-tty](https://github.com/carlosplanchon/worldclock-tty), [plotilleresample](https://github.com/carlosplanchon/plotilleresample), [tokenizesentences](https://github.com/carlosplanchon/tokenizesentences), [deblotch](https://github.com/carlosplanchon/deblotch), [checkcorruptedimages](https://github.com/carlosplanchon/checkcorruptedimages) and [sqlitexplorer](https://github.com/carlosplanchon/sqlitexplorer).
 
+## Collaborations
+
+[**ClaudIA**](https://github.com/gauchitodev/ClaudIA), by [@gauchitodev](https://github.com/gauchitodev): a WhatsApp bot with AI conversation, games, economy, moderation, memory and autonomous group interactions.
+
+[**ClaudIA-CS1.6**](https://github.com/NicolasBentancur/ClaudIA-CS1.6), by [@NicolasBentancur](https://github.com/NicolasBentancur): a Counter-Strike 1.6 system with AI chat, accounts, economy, jobs, casino, chess, radio and social features.
+
 ## Open source community
 
 Through [LibreCourseUY](https://librecourse.uy), which I co-lead with its founder, [Emiliano Gandini](https://github.com/emiliano-go), I help promote open-source software, technical learning, and collaboration in Uruguay.
