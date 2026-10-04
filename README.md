@@ -24,6 +24,8 @@ My reproducible Arch Linux workstation and terminal environment are defined in [
 
 I contribute to [**FastAPI Boilerplate**](https://github.com/benavlabs/FastAPI-boilerplate), a batteries-included foundation for production FastAPI applications, alongside [Igor Benav](https://github.com/igorbenav), whom I had the pleasure of meeting in Rio de Janeiro.
 
+I also maintain [**rsyscall-ng**](https://github.com/carlosplanchon/rsyscall-ng), a modernization of rsyscall that exposes local and remote Linux processes through syscall semantics from Python, with its native side reimplemented in Rust.
+
 ## Market microstructure
 
 [**measurevolume**](https://github.com/carlosplanchon/measurevolume) grew out of a cross-exchange arbitrage system I worked on in early 2020, using order-book snapshots to estimate market-taker pressure from visible depth depletion. The analysis accounts for differences in published book depth through comparable observation windows, price bands, confidence tiers, and equal-window controls.
